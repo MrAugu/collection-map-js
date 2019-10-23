@@ -1,0 +1,29 @@
+{
+  "name": "collection-map-js",
+  "version": "1.0.0",
+  "description": "A Map with additional utility methods for significantly improved performance and ease-of-use.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrAugu/collection-map-js.git"
+  },
+  "keywords": [
+    "collection",
+    "data",
+    "data-store",
+    "discord.js",
+    "discord-bot",
+    "store",
+    "cache",
+    "map",
+    "maps",
+    "utility",
+    "advanced"
+  ],
+  "author": "MrAugu#7016",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrAugu/collection-map-js/issues"
+  },
+  "homepage": "https://github.com/MrAugu/collection-map-js#readme"
+}
