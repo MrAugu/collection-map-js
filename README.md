@@ -29,7 +29,7 @@ The `Collection` extends `Map`.
   </tr>
   </table> -->
   
-  ``js
+  ```js
   // [Parameter] means that that parameter is optional, do not include []'s.
   
   collection.filter(function); // function takes in 'value'
