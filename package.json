@@ -1,6 +1,6 @@
 {
-  "name": "collection-map-js",
-  "version": "1.0.1",
+  "name": "@modcord/collection",
+  "version": "1.0.2",
   "description": "A Map with additional utility methods for significantly improved performance and ease-of-use.",
   "main": "index.js",
   "repository": {
