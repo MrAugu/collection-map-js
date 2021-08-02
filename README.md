@@ -1,5 +1,5 @@
 # collection-map-js
-A Map with additional utility methods for significantly improved performance and ease-of-use. Inspired by Discord.Js's collection, includes almost all of the function Discord.Js Collection (`.reduce()` is missing).
+A Map with additional utility methods to use.
 
 # Help, Issued & Support
 If you have encountered a bug with the library, open a pull request
